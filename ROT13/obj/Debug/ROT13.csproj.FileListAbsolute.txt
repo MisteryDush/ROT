@@ -1,0 +1,11 @@
+C:\Users\Ikram Arifdjanov\RiderProjects\ROT13\ROT13\bin\Debug\ROT13.exe.config
+C:\Users\Ikram Arifdjanov\RiderProjects\ROT13\ROT13\bin\Debug\ROT13.exe
+C:\Users\Ikram Arifdjanov\RiderProjects\ROT13\ROT13\bin\Debug\ROT13.pdb
+C:\Users\Ikram Arifdjanov\RiderProjects\ROT13\ROT13\obj\Debug\ROT13.csproj.AssemblyReference.cache
+C:\Users\Ikram Arifdjanov\RiderProjects\ROT13\ROT13\obj\Debug\ROT13.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ikram Arifdjanov\RiderProjects\ROT13\ROT13\obj\Debug\ROT13.Properties.Resources.resources
+C:\Users\Ikram Arifdjanov\RiderProjects\ROT13\ROT13\obj\Debug\ROT13.csproj.GenerateResource.cache
+C:\Users\Ikram Arifdjanov\RiderProjects\ROT13\ROT13\obj\Debug\ROT13.csproj.CoreCompileInputs.cache
+C:\Users\Ikram Arifdjanov\RiderProjects\ROT13\ROT13\obj\Debug\ROT13.exe
+C:\Users\Ikram Arifdjanov\RiderProjects\ROT13\ROT13\obj\Debug\ROT13.pdb
+C:\Users\Ikram Arifdjanov\RiderProjects\ROT13\ROT13\obj\Debug\ROT13.Form1.resources

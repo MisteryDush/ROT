@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ROT13", "ROT13\ROT13.csproj", "{2AF18183-7C0F-44B9-A6F0-0AEEE8F4AEA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2AF18183-7C0F-44B9-A6F0-0AEEE8F4AEA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AF18183-7C0F-44B9-A6F0-0AEEE8F4AEA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AF18183-7C0F-44B9-A6F0-0AEEE8F4AEA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AF18183-7C0F-44B9-A6F0-0AEEE8F4AEA6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
