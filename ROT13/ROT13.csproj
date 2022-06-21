@@ -81,7 +81,6 @@
         <None Include="App.config" />
     </ItemGroup>
     <ItemGroup>
-        <Content Include="Readme sources\img.png" />
         <Content Include="README.md" />
         <Content Include="Setup\ROTSetup.msi" />
         <Content Include="Setup\setup.exe" />
